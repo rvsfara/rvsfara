@@ -3,9 +3,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 <p>
 I'm student of Software Engineer looking for experience with Home Office work, Systems Analysis and Development 2011 to 2017 UTFPR. I started the administration course in 2020 to have experience with management and management processes, and a degree in Software Engineering to update myself to the job market.
+## Contatos:
+<div>
+<a href = "mailto:rvsfara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rvsfara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://rvsfara.github.io/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+</div>
 
 * 🌍  I'm based in Santa Maria, RS, Brazil
-* ✉️  You can contact me at [rvsfara@gmail.com](mailto:rvsfara@gmail.com)
+
 * 🧠  I'm learning UX; PHP; Javascrip; Java; C++; Python
 
 ### Learning Skills
@@ -32,15 +38,6 @@ I'm student of Software Engineer looking for experience with Home Office work, S
 
 <a href="https://www.buymeacoffee.com/rvsfara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-
-
-
-## Contatos:
-<div>
-<a href = "mailto:rvsfara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rvsfara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://rvsfara.github.io/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-</div>
 
 ## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
