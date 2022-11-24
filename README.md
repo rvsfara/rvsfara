@@ -2,12 +2,19 @@
 
 My name is Rafael Vieira dos Santos
 
-I'm student of Software Engineer looking for experience with Home Office work, Systems Analysis and Development 2011 to 2017 UTFPR. I started the administration course in 2020 to have experience with management and management processes, and a degree in Software Engineering to update myself to the job market.
+I'm student of Software Engineer looking for experience with Home Office work,
+Systems Analysis and Development 2011 to 2017 UTFPR. I started the
+administration course in 2020 to have experience with management and management
+processes, and a degree in Software Engineering to update myself to the job
+market.
 ## Contatos:
 <div>
-<a href = "mailto:rvsfara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rvsfara" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://rvsfara.github.io/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href = "mailto:rvsfara@gmail.com"><img src="badges/gmail.svg"
+target="_blank"></a>
+<a href="https://www.linkedin.com/in/rvsfara" target="_blank"><img
+src="badges/linkedin.svg" target="_blank"></a>
+<a href="https://rvsfara.github.io/" target="_blank"><img alt=""
+src="badges/website.svg" /></a>
 </div>
 
 * 🌍  I'm based in Santa Maria, RS, Brazil
@@ -15,10 +22,9 @@ I'm student of Software Engineer looking for experience with Home Office work, S
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rvsfara"><img
-src="https://github-readme-stats.vercel.app/api?username=rvsfara&show_icons=true
-&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2
-&bg_color=1c1917&hide_border=true&show_icons=true" alt="rvsfara's GitHub stats"
-/></a>
+src="https://github-readme-stats.vercel.app/api?username=rvsfara&show_icons=
+true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=
+0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
 
 <a href="http://www.github.com/rvsfara"><img
 src="https://github-readme-streak-stats.herokuapp.com/?user=rvsfara&
