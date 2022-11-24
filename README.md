@@ -21,22 +21,8 @@ src="badges/website.svg" /></a>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/rvsfara"><img
-src="https://github-readme-stats.vercel.app/api?username=rvsfara&show_icons=
-true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=
-0891b2&bg_color=1c1917&hide_border=true&show_icons=true"/></a>
-
-<a href="http://www.github.com/rvsfara"><img
-src="https://github-readme-streak-stats.herokuapp.com/?user=rvsfara&
-count_private=true&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&
-currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&
-dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/rvsfara"><img
-src="https://activity-graph.herokuapp.com/graph?username=rvsfara&count_private=
-true&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&
-area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub
-Commits Graph" /></a>
+![rvsfara](https://github-readme-streak-stats.herokuapp.com/?user=rvsfara&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsfara&layout=compact&langs_count=10)
 
 <a href="https://github.com/rvsfara" align="left"><img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=rvsfara&
@@ -110,9 +96,7 @@ public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
-Penpot 
-Links Úteis https://devicon.dev/
-
+![Penpot](https://img.shields.io/badge/-Penpot-000?style=for-the-badge&logo=penpot)
 
 #### Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
