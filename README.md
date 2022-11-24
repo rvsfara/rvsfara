@@ -23,9 +23,10 @@ src="badges/website.svg" /></a>
 
 ![rvsfara](https://github-readme-streak-stats.herokuapp.com/?user=rvsfara&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvsfara&layout=compact&langs_count=10&theme=dark&hide_border=true)
+
+## Skills
 <details>
-    <summary>### Skills</summary>
-        Skills
+    <summary>Click to Display</summary>
 
 <img src="badges/oracle-colored.svg" width="36" height="36" alt="Oracle" />
 <img src="badges/java.svg" width="40" height="40" alt="Java"/>
@@ -35,73 +36,45 @@ src="badges/website.svg" /></a>
 <img src="badges/php-colored.svg" width="36" height="36" alt="PHP" />
 <img src="badges/html5-colored.svg" width="36" height="36" alt="HTML5" />
 <img src="badges/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+<img src="badges/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<img src="badges/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
 
 </details>
+## Learning Skills
 <details>
-    <summary>### Learning Skills</summary>
+    <summary>Click to Display</summary>
+
+<img src="badges/react-colored.svg" width="36" height="36" alt="React" />
+<img src="badges/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+<img src="badges/vuejs-colored.svg" width="36" height="36" alt="Vue" />
+<img src="badges/angularjs-colored.svg" width="36" height="36" alt="Angular" />
+<img src="badges/jquery-colored.svg" width="36" height="36" alt="JQuery" />
+<img src="badges/css3-colored.svg" width="36" height="36" alt="CSS3" />
+<img src="badges/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
+<img src="badges/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+<img src="badges/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+<img src="badges/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+<img src="badges/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+<img src="badges/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<img src="badges/dot-net-colored.svg" width="36" height="36" alt=".NET" />
+<img src="badges/django-colored.svg" width="36" height="36" alt="Django" />
+<img src="badges/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+<img src="badges/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+<img src="badges/figma-colored.svg" width="36" height="36" alt="Figma" />
 
 </details>
 ### Socials
 
-<a href="https://www.behance.com/rvsfara" target="_blank"> <img src="badges/behance.svg" width="32" height="32" /></a> <a
-href="https://www.dev.to/rvsfara" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/
-public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a
-href="https://www.dribbble.com/rvsfara" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/
-public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a
-href="https://www.github.com/rvsfara" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/
-public/icons/socials/github.svg" width="32" height="32" /></a> <a
-href="https://www.linkedin.com/in/rvsfara" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/
-public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a
-href="http://www.medium.com/rvsfara" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/
-public/icons/socials/medium.svg" width="32" height="32" /></a> <a
-href="https://www.stackoverflow.com/users/rvsfara" target="_blank"
-rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/
-public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<a href="https://www.behance.com/rvsfara" target="_blank"> <img src="badges/behance.svg" width="32" height="32" /></a>
+<a href="https://www.dev.to/rvsfara" target="_blank" rel="noreferrer"><img src="badges/devdotto.svg" width="32" height="32" /></a>
+<a href="https://www.dribbble.com/rvsfara" target="_blank" rel="noreferrer"><img src="badges/dribbble.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/rvsfara" target="_blank" rel="noreferrer"><img src="badges/github.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/rvsfara" target="_blank" rel="noreferrer"><img src="badges/linkedin.svg" width="64" height="32" /></a>
+<a href="http://www.medium.com/rvsfara" target="_blank" rel="noreferrer"><img src="badges/medium.svg" width="32" height="32" /></a>
+<a href="https://www.stackoverflow.com/users/rvsfara" target="_blank" rel="noreferrer"><img src="badges/stackoverflow.svg" width="32" height="32" /></a>
 
 ### Support Me
 
