@@ -81,7 +81,7 @@ src="badges/website.svg" /></a>
 <a href="https://www.buymeacoffee.com/rvsfara"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
 
 <details>
-    <summary>Badges</summary>
+    <summary>Badges Loading</summary>
 Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
@@ -97,42 +97,43 @@ JS Framework/Library
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 
-#### CSS Framework/Library/Pre-processors
+CSS Framework/Library/Pre-processors
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
 
 
-#### Design/Visual Tools
+Design/Visual Tools
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Penpot](https://img.shields.io/badge/-Penpot-000?style=for-the-badge&logo=penpot)
 
-#### Database/State
+Database/State
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
-#### Backend
+Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
 ![API](https://img.shields.io/badge/-API-000?style=for-the-badge&logo=fastapi)
 
-#### Web Hosting
+Web Hosting
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 
-#### CI/CD
+CI/CD
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions) https://docs.github.com/pt/actions
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
 
-#### Package Manager
+Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
 ![Yarn](https://img.shields.io/badge/-yarn-000?style=for-the-badge&logo=yarn)
 
-#### Version Control
+Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-Eclipse
-NetBeans
+![Eclipse](https://img.shields.io/badge/Eclipse.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans.svg?style=for-the-badge&logo=netbeans&logoColor=white)
+
 
 
 </details>
@@ -144,15 +145,12 @@ NetBeans
 ## Main Operating System
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-
-
-
-
 ``` java
 if (codeWorking){
             while (codeQuality < perfectCode){
                 codeQuality++;
             }
-        }
+}
 ```
+
 ### Thanks for Visiting my GitHub Profile!
