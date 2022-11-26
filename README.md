@@ -111,6 +111,7 @@ Design/Visual Tools
 ![Penpot](https://img.shields.io/badge/-Penpot-000?style=for-the-badge&logo=penpot)
 
 Database/State
+
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 
@@ -140,8 +141,8 @@ Version Control
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse.svg?style=for-the-badge&logo=eclipse&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans.svg?style=for-the-badge&logo=netbeans&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
 
 
