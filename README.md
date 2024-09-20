@@ -2,11 +2,8 @@
 
 My name is Rafael Vieira dos Santos
 
-I'm student of Software Engineer looking for experience with Home Office work,
-Systems Analysis and Development 2011 to 2017 UTFPR. I started the
-administration course in 2020 to have experience with management and management
-processes, and a degree in Software Engineering to update myself to the job
-market.
+I'm student of Software Engineer looking for experience,
+Systems Analysis and Development 2011 to 2017 UTFPR. Bacharel in administration and Student of Software Engineering.
 ## Contact:
 <div>
 <a href = "mailto:rvsfara@gmail.com"><img src="badges/gmail.svg"
