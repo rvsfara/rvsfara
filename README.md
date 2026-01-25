@@ -1,9 +1,26 @@
 ![](img/yoda.gif)
 
-My name is Rafael Vieira dos Santos
+Professional Profile
+Software Engineer | Open Source Contributor | Database Specialist
 
-I'm student of Software Engineer looking for experience,
-Systems Analysis and Development 2011 to 2017 UTFPR. Bacharel in administration and Student of Software Engineering.
+I am a Software Engineer with a strong commitment to the Open Source ecosystem, actively contributing to Linux-based operating systems, including Arch Linux/Manjaro, OpenSUSE, Debian, and Red Hat/Fedora.
+
+I have extensive expertise in Database Management Systems (DBMS), specifically PostgreSQL, MySQL, and Oracle (Certified). My unique background combines deep technical engineering with business administration and project management, allowing me to bridge the gap between complex system architecture and organizational goals.
+
+Education & Academic Background
+MBA in Technology for Business: Data Science and Big Data – Faculdade Iguaçu
+
+Postgraduate Specialization in Cybersecurity: Threat Detection and Systems Protection – Faculdade Iguaçu
+
+Postgraduate Specialization in Project Management – Faculdade Iguaçu
+
+Postgraduate Specialization in Human Resources and People Management – Faculdade Iguaçu
+
+Bachelor’s Degree in Software Engineering – UNOPAR
+
+Bachelor’s Degree in Business Administration – UNOPAR
+
+Associate Degree in Systems Analysis and Development – UTFPR (Federal University of Technology – Paraná)
 ## Contact:
 <div>
 <a href = "mailto:rvsfara@gmail.com"><img src="badges/gmail.svg"
